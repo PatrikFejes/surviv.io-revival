@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="ping-part-eighth-highlight.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.5625"
+     inkscape:cx="64"
+     inkscape:cy="63.910112"
+     inkscape:window-width="1280"
+     inkscape:window-height="1001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="a">
+      <path
+         d="M19.19 20.595C7.769 32.397 1.934 47.581 1.651 62.847h45.996a16.366 16.366 0 0 1 4.06-9.736z"
+         fill-opacity=".49"
+         stroke-width="19.24"
+         stroke-miterlimit="10"
+         id="path1" />
+    </clipPath>
+  </defs>
+  <path
+     d="M19.19 20.595C7.769 32.397 1.934 47.581 1.651 62.847h45.996a16.366 16.366 0 0 1 4.06-9.736z"
+     clip-path="url(#a)"
+     fill="none"
+     fill-opacity=".49"
+     stroke="#0f0"
+     stroke-width="6"
+     stroke-miterlimit="10"
+     id="path2" />
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="movement.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.5625"
+     inkscape:cx="64"
+     inkscape:cy="63.910112"
+     inkscape:window-width="1280"
+     inkscape:window-height="1001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M57.876 97.057h-7.914c-1.612 0-2.428 1.948-1.318 3.1l14.048 14.445a1.832 1.832 0 0 0 2.616 0l14.048-14.446c1.13-1.151.314-3.099-1.319-3.099h-7.914V70.113h26.945v7.914c0 1.612 1.947 2.428 3.098 1.319l14.446-14.048a1.832 1.832 0 0 0 0-2.617l-14.446-14.048c-1.151-1.13-3.098-.314-3.098 1.32v7.913H70.103V30.942h7.914c1.612 0 2.428-1.947 1.318-3.098L65.288 13.398a1.832 1.832 0 0 0-2.617 0L48.623 27.844c-1.13 1.151-.314 3.099 1.319 3.099h7.914v26.944H30.932v-7.914c0-1.612-1.947-2.429-3.098-1.32l-14.446 14.05a1.832 1.832 0 0 0 0 2.617l14.446 14.048c1.151 1.13 3.098.314 3.098-1.32v-7.913h26.945z"
+     fill="#fff"
+     id="path1" />
+</svg>

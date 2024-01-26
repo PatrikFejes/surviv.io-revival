@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="skull-team.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.125"
+     inkscape:cx="32"
+     inkscape:cy="31.955056"
+     inkscape:window-width="1280"
+     inkscape:window-height="1001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M32 4.261c-13.184 0-23.834 10.65-23.834 23.834 0 8.778 4.723 16.428 11.77 20.562v11.082h3.677v-9.326c1.022.383 2.078.698 3.162.94v8.386h3.672v-7.865a24.345 24.345 0 0 0 3.094 0v7.865h3.671v-8.387c1.085-.24 2.14-.556 3.162-.939v9.326h3.672v-11.07c7.057-4.131 11.788-11.788 11.788-20.574 0-13.184-10.65-23.834-23.834-23.834zM18.86 21.593a7.073 7.073 0 1 1-.001 14.147 7.073 7.073 0 0 1 .001-14.147zm26.241 0a7.074 7.074 0 1 1-.002 14.148 7.074 7.074 0 0 1 .002-14.148zM31.994 31.877l5.882 9.468H26.112l5.882-9.468z"
+     fill="#fff"
+     id="path1" />
+</svg>

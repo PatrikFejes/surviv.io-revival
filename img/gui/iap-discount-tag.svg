@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="133"
+   height="136"
+   viewBox="0 0 133 136"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="iap-discount-tag.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.3533835"
+     inkscape:cx="66.5"
+     inkscape:cy="68.087781"
+     inkscape:window-width="1280"
+     inkscape:window-height="1001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     filter="url(#filter0_d)"
+     id="g1">
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="M26.6695 40.1767H106.172L132.703 66.707L0.139161 66.707L26.6695 40.1767Z"
+       fill="url(#paint0_radial)"
+       id="path1" />
+  </g>
+  <defs
+     id="defs4">
+    <filter
+       id="filter0_d"
+       x="0.139648"
+       y="0.425293"
+       width="132.563"
+       height="135.563"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix1" />
+      <feOffset
+         dy="3"
+         id="feOffset1" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.666667 0 0 0 0 0.0745098 0 0 0 0 0.0745098 0 0 0 1 0"
+         id="feColorMatrix2" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend2" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend3" />
+    </filter>
+    <radialGradient
+       id="paint0_radial"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(61.3359 42.8035) rotate(116.189) scale(63.5704 60.7279)">
+      <stop
+         stop-color="#ECF013"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#AEB110"
+         id="stop4" />
+    </radialGradient>
+  </defs>
+</svg>
