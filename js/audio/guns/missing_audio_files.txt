@@ -1,0 +1,9 @@
+lasr_01.mp3
+rainbow_blaster_01.mp3
+rainbow_blaster_loading.mp3
+water_gun_01.mp3
+water_gun_reload_01.mp3
+pkm_02.mp3
+bugle_01.mp3
+bugle_02.mp3
+bugle_03.mp3
