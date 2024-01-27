@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="129"
+   height="129"
+   viewBox="0 0 129 129"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="loot-melee-scifi.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.6744186"
+     inkscape:cx="64.425087"
+     inkscape:cy="64.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     filter="url(#filter0_d)"
+     id="g2">
+    <path
+       d="M124.61 65.3778C124.61 52.6753 114.312 42.3758 101.61 42.3732C88.9073 42.3707 78.6099 52.6661 78.6099 65.3687C78.6099 78.0712 88.9073 88.3707 101.61 88.3732C114.312 88.3758 124.61 78.0804 124.61 65.3778Z"
+       fill="#2C2C2C"
+       id="path1" />
+    <path
+       d="M101.61 43.8732C113.484 43.8756 123.11 53.5034 123.11 65.3775C123.11 77.2517 113.484 86.8756 101.61 86.8732C89.7358 86.8709 80.1099 77.2431 80.1099 65.369C80.1099 53.4948 89.7358 43.8709 101.61 43.8732Z"
+       stroke="#8DFFF7"
+       stroke-width="3"
+       id="path2" />
+  </g>
+  <g
+     filter="url(#filter1_d)"
+     id="g4">
+    <path
+       d="M57.5845 65.3778C57.5845 52.6753 47.2871 42.3758 34.5845 42.3732C21.882 42.3707 11.5845 52.6661 11.5845 65.3687C11.5845 78.0712 21.882 88.3707 34.5845 88.3732C47.2871 88.3758 57.5845 78.0804 57.5845 65.3778Z"
+       fill="#2C2C2C"
+       id="path3" />
+    <path
+       d="M34.5845 43.8732C46.4586 43.8756 56.0845 53.5034 56.0845 65.3775C56.0845 77.2517 46.4586 86.8756 34.5845 86.8732C22.7104 86.8709 13.0845 77.2431 13.0845 65.369C13.0845 53.4948 22.7104 43.8709 34.5845 43.8732Z"
+       stroke="#8DFFF7"
+       stroke-width="3"
+       id="path4" />
+  </g>
+  <defs
+     id="defs8">
+    <filter
+       id="filter0_d"
+       x="75.6099"
+       y="39.373"
+       width="52"
+       height="52"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood4" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix4" />
+      <feOffset
+         id="feOffset4" />
+      <feGaussianBlur
+         stdDeviation="1.5"
+         id="feGaussianBlur4" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 1 0 0 0 0 0.929293 0 0 0 1 0"
+         id="feColorMatrix5" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend5" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend6" />
+    </filter>
+    <filter
+       id="filter1_d"
+       x="8.5845"
+       y="39.373"
+       width="52"
+       height="52"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood6" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix6" />
+      <feOffset
+         id="feOffset6" />
+      <feGaussianBlur
+         stdDeviation="1.5"
+         id="feGaussianBlur6" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 1 0 0 0 0 0.929293 0 0 0 1 0"
+         id="feColorMatrix7" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend7" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend8" />
+    </filter>
+  </defs>
+</svg>
